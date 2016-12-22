@@ -10,8 +10,8 @@
 
 <strong>File Structure:</strong>
 
-* Reading material (for students)
-* Slides
+* Handout (for students)
+* Slides (for students)
 * Code
   * Union find naive
   * Union find optimized
