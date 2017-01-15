@@ -13,10 +13,7 @@
 * Handout (for students)
 * Slides (for students)
 * Code
-  * Union find naive
-  * Union find optimized
+  * Union find (Naive Version, Optimized Version, Time Comparison)
   * Cycle detection
   * Kruskal's algorithm
-  * Answer to Q1
-  * Answer to Q2
-  * Answer to Q3
+  * Application (Q1-Q3)
