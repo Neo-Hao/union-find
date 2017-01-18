@@ -13,7 +13,13 @@
 * Handout (for students)
 * Slides (for students)
 * Code
-  * Union find (Naive Version, Optimized Version, Time Comparison)
+  * Union find
+    * Naive Version
+    * Optimized Version
+    * Time Comparison
   * Cycle detection
   * Kruskal's algorithm
-  * Application (Q1-Q3)
+  * Application
+    * Q1. Number of Connected Components in an Undirected Graph
+    * Q2. Number of Islands
+    * Q3. Graph Valid Tree
